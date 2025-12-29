@@ -1,4 +1,4 @@
-/* Jake Gary ||||| 25347105
+/* NOTE that this wasn't bulit by me
 
 gcc -Wall -Werror -ansi -o encrypt.out encrypt.c -lm
 */
