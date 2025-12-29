@@ -1,7 +1,3 @@
-/*******************************************************************************
-*Group Member names/ID number: Jake Gary (25347105), Matthew Horner (13524665),
- Chenran Hao (25348537), Solomon Howard (25472857) 
-*******************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
